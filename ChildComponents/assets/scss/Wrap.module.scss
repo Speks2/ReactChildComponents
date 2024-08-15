@@ -1,4 +1,23 @@
 body {
     background: rgb(213, 213, 213);
-}
 
+    .wrapper {
+        background: red;
+        border: solid 4px black;
+        max-width: 20rem;
+        padding: 1rem;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .card-image {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    
+    .card-content {
+        padding-top: 1rem;
+        color: white; /* Or any other text color you prefer */
+    }
+}

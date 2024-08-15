@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Wrapper title="Shrek"><p>Test</p><h2>The Grey</h2></Wrapper>
+      <Wrapper title="CatFaceBuh"><p>Buh Face</p><h2>MEME</h2></Wrapper>
     </>
   )
 }
