@@ -1,5 +1,6 @@
 body {
     background: rgb(213, 213, 213);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
     .wrapper {
         background: red;
@@ -18,6 +19,6 @@ body {
     
     .card-content {
         padding-top: 1rem;
-        color: white; /* Or any other text color you prefer */
+        color: white; 
     }
 }
