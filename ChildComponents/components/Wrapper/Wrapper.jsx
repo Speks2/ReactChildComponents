@@ -1,4 +1,4 @@
-import style from "../assets/scss/Wrap.module.scss"
+import style from "./Wrap.module.scss"
 
 
 function Wrapper(props) {
